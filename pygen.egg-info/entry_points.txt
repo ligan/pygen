@@ -1,3 +1,0 @@
-[console_scripts]
-pygen = pygen.__main__:main
-
