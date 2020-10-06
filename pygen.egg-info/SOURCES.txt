@@ -1,0 +1,7 @@
+setup.py
+pygen.egg-info/PKG-INFO
+pygen.egg-info/SOURCES.txt
+pygen.egg-info/dependency_links.txt
+pygen.egg-info/entry_points.txt
+pygen.egg-info/requires.txt
+pygen.egg-info/top_level.txt

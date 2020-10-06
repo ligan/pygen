@@ -1,0 +1,19 @@
+[
+  {
+    "name": "feature_id",
+    "type": "String",
+    "length": "40",
+    "nullable": "False"
+  },
+  {
+    "name": "project_id",
+    "type": "Integer",
+    "nullable": "False"
+  },
+  {
+    "name": "property_name",
+    "type": "String",
+    "length": "128",
+    "nullable": "True"
+  }
+]
